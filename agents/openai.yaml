@@ -1,0 +1,4 @@
+interface:
+  display_name: "霄策·问题消解分析"
+  short_description: "把复杂议题消解为可信解释、群体假设、选题入口与作者连续性判断"
+  default_prompt: "Use $xiaoce-clarify-issue to clarify this issue, separate facts from hypotheses, and identify evidence-bounded audience and topic insights without drafting content."
